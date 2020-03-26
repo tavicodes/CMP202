@@ -1,0 +1,11 @@
+﻿  farm.cpp
+  main.cpp
+D:\Documents\Uni\Work\CMP202\git\CMP202\MandelbrotThreading\main.cpp(306,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\Uni\Work\CMP202\git\CMP202\MandelbrotThreading\main.cpp(307,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\Uni\Work\CMP202\git\CMP202\MandelbrotThreading\main.cpp(502,20): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\Uni\Work\CMP202\git\CMP202\MandelbrotThreading\main.cpp(507,20): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\Uni\Work\CMP202\git\CMP202\MandelbrotThreading\main.cpp(512,20): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\Uni\Work\CMP202\git\CMP202\MandelbrotThreading\main.cpp(517,20): warning C4018: '<': signed/unsigned mismatch
+  mandelbrotTask.cpp
+  Generating Code...
+  MandelbrotThreading.vcxproj -> D:\Documents\Uni\Work\CMP202\git\CMP202\Debug\MandelbrotThreading.exe

@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\amp.h(1353,1): fatal error C1001: An internal error has occurred in the compiler.
+  (compiler file 'd:\agent\_work\6\s\src\vctools\Compiler\CxxFE\sl\p1\c\symbols.c', line 10352)
+   To work around this problem, try simplifying or changing the program near the locations listed above.
+  Please choose the Technical Support command on the Visual C++
+   Help menu, or open the Technical Support help file for more information
